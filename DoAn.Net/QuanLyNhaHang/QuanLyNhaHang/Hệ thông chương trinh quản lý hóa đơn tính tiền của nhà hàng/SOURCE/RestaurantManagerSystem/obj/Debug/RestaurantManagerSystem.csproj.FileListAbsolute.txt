@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoKhoangNgay.resources
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoNgay.resources
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoThangNam.resources
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+C:\Users\Admin\Desktop\DoAn.Net\QuanLyNhaHang\QuanLyNhaHang\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb

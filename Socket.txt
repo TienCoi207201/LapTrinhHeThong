@@ -1,0 +1,3 @@
+"../../../../../../Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/lib/libadvapi32.a"
+"../../../../../../Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/lib/libws2_32.a"
+"../../../../../../Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/lib/libwsock32.a"
